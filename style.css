@@ -180,9 +180,11 @@
     .showcase, .showcase header {
         padding: 40px;
     }
+
     .text h2 {
         font-size: 3rem;
     }
+    
     .text h3 {
         font-size: 2rem;
     }
